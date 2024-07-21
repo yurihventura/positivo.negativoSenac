@@ -1,0 +1,14 @@
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\bin\Debug\net8.0\positivo.negativoteste.exe
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\bin\Debug\net8.0\positivo.negativoteste.deps.json
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\bin\Debug\net8.0\positivo.negativoteste.runtimeconfig.json
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\bin\Debug\net8.0\positivo.negativoteste.dll
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\bin\Debug\net8.0\positivo.negativoteste.pdb
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\obj\Debug\net8.0\positivo.negativoteste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\obj\Debug\net8.0\positivo.negativoteste.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\obj\Debug\net8.0\positivo.negativoteste.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\obj\Debug\net8.0\positivo.negativoteste.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\obj\Debug\net8.0\positivo.negativoteste.dll
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\obj\Debug\net8.0\refint\positivo.negativoteste.dll
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\obj\Debug\net8.0\positivo.negativoteste.pdb
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\obj\Debug\net8.0\positivo.negativoteste.genruntimeconfig.cache
+C:\Users\Yuri\Desktop\C#\positivo.negativoteste\obj\Debug\net8.0\ref\positivo.negativoteste.dll
